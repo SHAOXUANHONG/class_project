@@ -210,6 +210,8 @@ public class Compy_TableServlet_back extends HttpServlet {
 						}
 					}
 				}
+				
+				
 
 				// 判斷公司名稱(cp_name)
 				if (cp_name == null || (cp_name.trim()).length() == 0) {
